@@ -1,2 +1,22 @@
 # core-java
 Core java
+Class fruits
+{private int f;
+int g;
+private void m()
+{
+System.out.println(“….”);
+}
+}
+Class M extends fruits
+{void method ();
+………
+}}
+Class Main
+{
+Public static void main (String [] args)
+{
+M ob= new M ();
+Ob.f=3;   // here the variable cannot be accessed
+Ob.m();
+}
