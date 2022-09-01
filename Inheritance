@@ -1,7 +1,8 @@
 # core-java
 Core java
 Class fruits
-{private int f;
+{
+private int f;
 int g;
 private void m()
 {
@@ -9,7 +10,8 @@ System.out.println(“….”);
 }
 }
 Class M extends fruits
-{void method ();
+{
+void method ();
 ………
 }}
 Class Main
